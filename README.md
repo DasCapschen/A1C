@@ -2,6 +2,8 @@
 This mod for ArmA 3 adds Marian Quandt from ArmA 1 and all animations used in ArmA 1's cutscenes.  
 You can find Marian under "Civilians > Others > Men".  
 
+Find it on the workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2136516863
+
 Please note: Marian is NOT A FUNCTIONAL NPC, since she uses a different skeleton! 
 She is only intended to work with HER animations.  
 
