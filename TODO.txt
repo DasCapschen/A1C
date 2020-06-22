@@ -1,0 +1,1 @@
+refactor, so stuff is in CAPS_A1C\characters, etc. instead of CA\

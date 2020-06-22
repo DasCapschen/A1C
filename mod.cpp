@@ -1,0 +1,12 @@
+name = "A1C";
+author = "DasCapschen";
+//picture = "\CAPS_Disguise\images\mod_picture.paa";
+//logoSmall = "\CAPS_A1C\images\logo2.paa";
+//logo = "\CAPS_A1C\images\logo2.paa";
+//logoOver = "\CAPS_A1C\images\logo2.paa";
+//action = "https://github.com/CAPTNCAPS/A3Disguise/tree/addon";
+tooltipOwned = "A1C by DasCapschen";
+dlcColor[] = { 0.12, 0.8, 0.35, 1.0 };
+overview = "ArmA 1 Cutscene Animations";
+hideName = 0;
+hidePicture = 0;
