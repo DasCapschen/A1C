@@ -10,6 +10,10 @@ There are animations for other characters, these do NOT work on Marian, but they
 I do NOT intend to port any other characters (like the news anchor) since they can be reasonably replaced by existing ArmA 3 or CUP models.
 Marian is unique because she is a woman.
 
+Please check the License if you are going to modify this mod! It is licensed under the APL-SA, since it uses files originally created by Bohemia Interactive.
+Many thanks to *them* for creating one of the most wonderful game franchises out there!
+
+
 ### TODO
 Currently, the files are in the \ca\ namespace. I will move them to \CAPS_A1C\ soon, to prevent possible file conflicts with other mods.
 
