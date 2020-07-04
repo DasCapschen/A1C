@@ -38,6 +38,11 @@ Currently, the files are in the \ca\ namespace. I will move them to \CAPS_A1C\ s
 `ActsPercMstpSnonWnonDnon_MarianQ_shot3Man`
 `ActsPercMstpSnonWnonDnon_MarianQ_shot4Man`
 `ActsPercMstpSnonWnonDnon_MarianQ_shot5Man`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7intro`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7midreporter`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7midsoldier`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7end`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot10`
 `ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan`
 `ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop1`
 `ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_LoopLong`
