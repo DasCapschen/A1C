@@ -80,61 +80,61 @@ class CfgMovesMaleSdr: CfgMovesBasic
 			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot5Man.rtm";
 			speed=0.192308;
 		};
-        class ActsPercMstpSnonWnonDnon_MarianQ_shot7intro: AmovPercMstpSnonWnonDnon
-        {
-            file = "\CAPS_A1C\anim\actspercmstpsnonwnondnon_marianq_shot7intro.rtm";
-            speed = 0.044444;
-            connectTo[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            connectFrom[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            interpolateFrom[] = {};
-            interpolateTo[] = {};
-            aiming = "empty";
-            head = "empty";
-        };
-        class ActsPercMstpSnonWnonDnon_MarianQ_shot7MidSoldier: AmovPercMstpSnonWnonDnon
-        {
-            file = "\CAPS_A1C\anim\actspercmstpsnonwnondnon_marianq_shot7midsoldier.rtm";
-            speed = 0.008333;
-            connectTo[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            connectFrom[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            interpolateFrom[] = {};
-            interpolateTo[] = {};
-            aiming = "empty";
-            head = "empty";
-        };
-        class ActsPercMstpSnonWnonDnon_MarianQ_shot7MidReporter: AmovPercMstpSnonWnonDnon
-        {
-            file = "\CAPS_A1C\anim\actspercmstpsnonwnondnon_marianq_shot7midreporter.rtm";
-            speed = 0.008333;
-            connectTo[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            connectFrom[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            interpolateFrom[] = {};
-            interpolateTo[] = {};
-            aiming = "empty";
-            head = "empty";
-        };
-        class ActsPercMstpSnonWnonDnon_MarianQ_shot7end: AmovPercMstpSnonWnonDnon
-        {
-            file = "\CAPS_A1C\anim\actspercmstpsnonwnondnon_marianq_shot7end.rtm";
-            speed = 0.045454;
-            connectTo[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            connectFrom[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            interpolateFrom[] = {};
-            interpolateTo[] = {};
-            aiming = "empty";
-            head = "empty";
-        };
-        class ActsPercMstpSnonWnonDnon_MarianQ_shot10: AmovPercMstpSnonWnonDnon
-        {
-            file = "\CAPS_A1C\anim\actspercmstpsnonwnondnon_marianq_shot10.rtm";
-            speed = 0.010003;
-            connectTo[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            connectFrom[] = {"AmovPercMstpSnonWnonDnon",0.1};
-            interpolateFrom[] = {};
-            interpolateTo[] = {};
-            aiming = "empty";
-            head = "empty";
-        };
+		class ActsPercMstpSnonWnonDnon_MarianQ_shot7intro: AmovPercMstpSnonWnonDnon
+		{
+			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot7intro.rtm";
+			speed = 0.0444444;
+			connectTo[]={AmovPercMstpSnonWnonDnon,0.1};
+			connectFrom[]={AmovPercMstpSnonWnonDnon,0.1};
+			interpolateFrom[]={};
+			interpolateTo[]={};
+			aiming = empty;
+			head = empty;
+		};
+		class ActsPercMstpSnonWnonDnon_MarianQ_shot7MidSoldier: AmovPercMstpSnonWnonDnon
+		{
+			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot7MidSoldier.rtm";
+			speed = 0.00833333;
+			connectTo[]={AmovPercMstpSnonWnonDnon,0.1};
+			connectFrom[]={AmovPercMstpSnonWnonDnon,0.1};
+			interpolateFrom[]={};
+			interpolateTo[]={};
+			aiming = empty;
+			head = empty;
+		};
+		class ActsPercMstpSnonWnonDnon_MarianQ_shot7MidReporter: AmovPercMstpSnonWnonDnon
+		{
+			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot7MidReporter.rtm";
+			speed = 0.00833333;
+			connectTo[]={AmovPercMstpSnonWnonDnon,0.1};
+			connectFrom[]={AmovPercMstpSnonWnonDnon,0.1};
+			interpolateFrom[]={};
+			interpolateTo[]={};
+			aiming = empty;
+			head = empty;
+		};
+		class ActsPercMstpSnonWnonDnon_MarianQ_shot7end: AmovPercMstpSnonWnonDnon
+		{
+			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot7end.rtm";
+			speed = 0.0454545;
+			connectTo[]={AmovPercMstpSnonWnonDnon,0.1};
+			connectFrom[]={AmovPercMstpSnonWnonDnon,0.1};
+			interpolateFrom[]={};
+			interpolateTo[]={};
+			aiming = empty;
+			head = empty;
+		};
+		class ActsPercMstpSnonWnonDnon_MarianQ_shot10: AmovPercMstpSnonWnonDnon
+		{
+			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_shot10.rtm";
+			speed = 0.0100033;
+			connectTo[]={AmovPercMstpSnonWnonDnon,0.1};
+			connectFrom[]={AmovPercMstpSnonWnonDnon,0.1};
+			interpolateFrom[]={};
+			interpolateTo[]={};
+			aiming = empty;
+			head = empty;
+		};
 		class ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan: AmovPercMstpSnonWnonDnon
 		{
 			file = "\CAPS_A1C\characters\anim\ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan.rtm";
