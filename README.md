@@ -20,32 +20,32 @@ Many thanks to *them* for creating one of the most wonderful game franchises out
 Currently, the files are in the \ca\ namespace. I will move them to \CAPS_A1C\ soon, to prevent possible file conflicts with other mods.
 
 ### Classnames
-`MarianQuandt`  
-`MarianQuandt02`  
-`MarianQuandt03`   
-`MarianQuandt04`  
+`MarianQuandt`    
+`MarianQuandt02`    
+`MarianQuandt03`    
+`MarianQuandt04`   
 
 ### Animations
 #### Marian only
-`ActsPercMstpSnonWnonDnon_MarianQ_shot1`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot2`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot3`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot4`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot5`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot1`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot2`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot3`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot4`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot5`  
 
 #### Not for Marian
-`ActsPercMstpSnonWnonDnon_MarianQ_shot1Man`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot3Man`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot4Man`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot5Man`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot7intro`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot7midreporter`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot7midsoldier`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot7end`
-`ActsPercMstpSnonWnonDnon_MarianQ_shot10`
-`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan`
-`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop1`
-`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_LoopLong`
-`ActsPercMstpSnonWnonDnon_MarianQ_WarReporter`
-`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop2`
-`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop3`
+`ActsPercMstpSnonWnonDnon_MarianQ_shot1Man`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot3Man`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot4Man`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot5Man`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7intro`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7midreporter`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7midsoldier`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot7end`  
+`ActsPercMstpSnonWnonDnon_MarianQ_shot10`  
+`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan`  
+`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop1`  
+`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_LoopLong`  
+`ActsPercMstpSnonWnonDnon_MarianQ_WarReporter`  
+`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop2`  
+`ActsPercMstpSnonWnonDnon_MarianQ_TVstudioMan_Loop3`  
